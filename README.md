@@ -8,7 +8,7 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 🎓 En recherche d'alternance pour un Mastère Tech Lead  
 🌐 [Portfolio](https://elena-ferreira.notion.site/Portfolio-725d518db1044e3cabbd23322622a29e?pvs=74)  
 📧 elena.lacroixferreira@gmail.com  
-📞 07 68 48 60 03
+🔗 [LinkedIn](https://www.linkedin.com/in/ferreira-elena/)
 
 ## 🏆 Projets & Réalisations
 
@@ -50,12 +50,6 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 - **📍 Grafikmente, Paris 2ème** _(Stage 2ᵉ année)_ – Développement WordPress & automatisation.
 - **📍 Marquetis & Co, Levallois-Perret** _(Stage 3ᵉ année)_ – Développement back-office Symfony & intégration front-end.
 
-## 🎯 Objectifs & Aspirations
-
-Passionnée par le **développement web**, je suis en constante recherche d’apprentissage. Mon ambition est d’évoluer en tant que **Tech Lead**, en maîtrisant à la fois le développement et la stratégie digitale pour concevoir des solutions innovantes.
-
 ## 🎨 Centres d'intérêt
 
 📸 **Photographie** | 🎹 **Piano** | 🏋️ **Musculation** | 🎬 **Montage Vidéo** | 🚗 **Automobile**
-
-Merci de votre visite ! ✨

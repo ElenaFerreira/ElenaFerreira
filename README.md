@@ -21,27 +21,15 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 
 ### Front-End :
 
-<img height="20" alt="html" src="images/html.png"> <img height="20" alt="javascript" src="images/js.png">
-<img height="20" alt="typescript" src="images/typescript.png">
-<img height="20" alt="css" src="images/css.png">
-<img height="20" alt="Tailwind" src="images/Tailwind.png">
-<img height="20" alt="bootstrap" src="images/Bootstrap.png">
+<img height="20" alt="html" src="images/html.png"> <img height="20" alt="javascript" src="images/js.png"> <img height="20" alt="typescript" src="images/typescript.png"> <img height="20" alt="css" src="images/css.png"> <img height="20" alt="Tailwind" src="images/Tailwind.png"> <img height="20" alt="bootstrap" src="images/Bootstrap.png">
 
 ### Back-End :
 
-<img height="20" alt="php" src="images/php.png">  
-<img height="20" alt="python" src="images/python.png"> 
-<img height="20" alt="symfony" src="images/symfony.svg">  
-<img height="20" alt="django" src="images/django.svg">  
-<img height="20" alt="sql" src="images/sql.png">
+<img height="20" alt="php" src="images/php.png"> <img height="20" alt="python" src="images/python.png"> <img height="20" alt="symfony" src="images/symfony.svg"> <img height="20" alt="django" src="images/django.svg"> <img height="20" alt="sql" src="images/sql.png">
 
 ### Outils & Autres Technologies :
 
-<img height="20" alt="github" src="images/github.svg">  
-<img height="20" alt="gitlab" src="images/gitlab.png">  
-<img height="20" alt="bash" src="images/bash.png">  
-<img height="20" alt="wordpress" src="images/wordpress.png"> 
-<img height="20" alt="office" src="images/office.png">
+<img height="20" alt="github" src="images/github.svg"> <img height="20" alt="gitlab" src="images/gitlab.png"> <img height="20" alt="bash" src="images/bash.png"> <img height="20" alt="wordpress" src="images/wordpress.png"> <img height="20" alt="office" src="images/office.png">
 
 ### Bonnes Pratiques :
 

@@ -48,18 +48,3 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 
 - **💬 WaveChat** – Application de messagerie pour créer des groupes et communiquer entre utilisateurs.  
   [🔗 Voir le repo](https://github.com/ElenaFerreira/WaveChatWebsite)
-
-## 🏢 Expériences professionnelles
-
-### **Actuellement : Développeuse Web (Alternance)** – _Depuis septembre 2024_
-
-**📍 Digital Campus, Paris 11ème**
-
-### **Expériences précédentes :**
-
-- **📍 Marquetis & Co, Levallois-Perret** _(Stage 3ᵉ année)_ – Développement back-office Symfony & intégration front-end.
-- **📍 Grafikmente, Paris 2ème** _(Stage 2ᵉ année)_ – Développement WordPress & automatisation.
-
-## 🎨 Centres d'intérêt
-
-📸 **Photographie** | 🎹 **Piano** | 🏋️ **Musculation** | 🎬 **Montage Vidéo** | 🚗 **Automobile**

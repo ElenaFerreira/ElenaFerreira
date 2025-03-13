@@ -1,55 +1,55 @@
-# 👋 Hello, I'm Elena Ferreira!
+# 👋 Bonjour, je suis Elena Ferreira !
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-Passionate about web development, I am constantly seeking new technologies to explore and challenges to tackle. My goal is to design innovative and high-performance digital experiences.
+Passionnée par le développement web, je suis en constante recherche de nouvelles technologies à explorer et de défis à relever. Mon objectif est de concevoir des expériences numériques innovantes et performantes.
 
-📍 Based in the Paris region  
-🎓 Currently looking for an apprenticeship for a Tech Lead Master's degree  
+📍 Basée en région parisienne  
+🎓 En recherche d'alternance pour un Mastère Tech Lead  
 🌐 [Portfolio](https://elena-ferreira.notion.site/Portfolio-725d518db1044e3cabbd23322622a29e?pvs=74)  
 📧 elena.lacroixferreira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ferreira-elena/)
 
-## 💡 Skills & Technologies
+## 💡 Compétences & Technologies
 
-### Front-End:
+### Front-End :
 
 <img height="20" alt="html" src="images/html.png"> <img height="20" alt="javascript" src="images/js.png"> <img height="20" alt="typescript" src="images/typescript.png"> <img height="20" alt="css" src="images/css.png"> <img height="20" alt="Tailwind" src="images/Tailwind.png"> <img height="20" alt="bootstrap" src="images/Bootstrap.png">
 
-### Back-End:
+### Back-End :
 
 <img height="20" alt="php" src="images/php.png"> <img height="20" alt="python" src="images/python.png"> <img height="20" alt="symfony" src="images/symfony.svg"> <img height="20" alt="django" src="images/django.svg"> <img height="20" alt="sql" src="images/sql.png">
 
-### Tools & Other Technologies:
+### Outils & Autres Technologies :
 
 <img height="20" alt="github" src="images/github.svg"> <img height="20" alt="gitlab" src="images/gitlab.png"> <img height="20" alt="bash" src="images/bash.png"> <img height="20" alt="wordpress" src="images/wordpress.png"> <img height="20" alt="office" src="images/office.png">
 
-### Best Practices:
+### Bonnes Pratiques :
 
-🔍 User Testing  
-💾 Database Management  
-🌐 Web Integration  
+🔍 Tests utilisateur  
+💾 Gestion de bases de données  
+🌐 Intégration web  
 🎨 UX/UI Design  
-📱 Responsive Web Development
+📱 Développement Web Responsive
 
-## 🏆 Projects & Achievements
+## 🏆 Projets & Réalisations
 
-- **🏅 Connected Mirror** – Awarded in the **NSI 2021 competition** (Versailles Academy).
-- **🎵 Web Application like Spotify** – Developed a music streaming platform with **Django & Bootstrap 5**.
-- **🛒 E-commerce Site** – Created a fully functional online store.
-- **🔄 Task Automation** – Optimized repetitive processes using **JavaScript**.
+- **🏅 Miroir connecté** – Projet primé au **concours NSI 2021** (Académie de Versailles).
+- **🎵 Application web type Spotify** – Développement d'une plateforme de streaming musical avec **Django & Bootstrap 5**.
+- **🛒 Site e-commerce** – Création d'une boutique en ligne fonctionnelle.
+- **🔄 Automatisation de tâches** – Optimisation des processus répétitifs avec **JavaScript**.
 
-## 🏢 Professional Experience
+## 🏢 Expériences professionnelles
 
-### **Currently: Web Developer (Apprenticeship)** – _Since September 2024_
+### **Actuellement : Développeuse Web (Alternance)** – _Depuis septembre 2024_
 
-**📍 Digital Campus, Paris 11th**
+**📍 Digital Campus, Paris 11ème**
 
-### **Previous Experiences:**
+### **Expériences précédentes :**
 
-- **📍 Marquetis & Co, Levallois-Perret** _(3rd Year Internship)_ – Symfony back-office development & front-end integration.
-- **📍 Grafikmente, Paris 2nd** _(2nd Year Internship)_ – WordPress development & automation.
+- **📍 Marquetis & Co, Levallois-Perret** _(Stage 3ᵉ année)_ – Développement back-office Symfony & intégration front-end.
+- **📍 Grafikmente, Paris 2ème** _(Stage 2ᵉ année)_ – Développement WordPress & automatisation.
 
-## 🎨 Hobbies & Interests
+## 🎨 Centres d'intérêt
 
-📸 **Photography** | 🎹 **Piano** | 🏋️ **Weightlifting** | 🎬 **Video Editing** | 🚗 **Cars**
+📸 **Photographie** | 🎹 **Piano** | 🏋️ **Musculation** | 🎬 **Montage Vidéo** | 🚗 **Automobile**

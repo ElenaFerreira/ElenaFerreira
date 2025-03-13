@@ -10,13 +10,6 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 📧 elena.lacroixferreira@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ferreira-elena/)
 
-## 🏆 Projets & Réalisations
-
-- **🏅 Miroir connecté** – Projet primé au **concours NSI 2021** (Académie de Versailles).
-- **🎵 Application web type Spotify** – Développement d'une plateforme de streaming musical avec **Django & Bootstrap 5**.
-- **🛒 Site e-commerce** – Création d'une boutique en ligne fonctionnelle.
-- **🔄 Automatisation de tâches** – Optimisation des processus répétitifs avec **JavaScript**.
-
 ## 💡 Compétences & Technologies
 
 ### Front-End :
@@ -39,16 +32,23 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 🎨 UX/UI Design  
 📱 Développement Web Responsive
 
+## 🏆 Projets & Réalisations
+
+- **🏅 Miroir connecté** – Projet primé au **concours NSI 2021** (Académie de Versailles).
+- **🎵 Application web type Spotify** – Développement d'une plateforme de streaming musical avec **Django & Bootstrap 5**.
+- **🛒 Site e-commerce** – Création d'une boutique en ligne fonctionnelle.
+- **🔄 Automatisation de tâches** – Optimisation des processus répétitifs avec **JavaScript**.
+
 ## 🏢 Expériences professionnelles
 
-### **👩‍💻 Actuellement : Développeuse Web (Alternance)** – _Depuis septembre 2024_
+### **Actuellement : Développeuse Web (Alternance)** – _Depuis septembre 2024_
 
 **📍 Digital Campus, Paris 11ème**
 
-### **📌 Expériences précédentes :**
+### **Expériences précédentes :**
 
-- **📍 Grafikmente, Paris 2ème** _(Stage 2ᵉ année)_ – Développement WordPress & automatisation.
 - **📍 Marquetis & Co, Levallois-Perret** _(Stage 3ᵉ année)_ – Développement back-office Symfony & intégration front-end.
+- **📍 Grafikmente, Paris 2ème** _(Stage 2ᵉ année)_ – Développement WordPress & automatisation.
 
 ## 🎨 Centres d'intérêt
 

@@ -35,9 +35,21 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 ## 🏆 Projets & Réalisations
 
 - **🏅 Miroir connecté** – Projet primé au **concours NSI 2021** (Académie de Versailles).
-- **🎵 Application web type Spotify** – Développement d'une plateforme de streaming musical avec **Django & Bootstrap 5**.
-- **🛒 Site e-commerce** – Création d'une boutique en ligne fonctionnelle.
-- **🔄 Automatisation de tâches** – Optimisation des processus répétitifs avec **JavaScript**.
+
+- **🌐 Site Web Boulangers du Grand Paris**  
+  [🔗 Accéder au site web](https://boulangersdugrandparis.com/accueil/)
+
+- **🎮 Projet Unity**  
+  Avec une équipe de 21 élèves, nous avons développé un jeu vidéo 3D sur Unity. J'ai conçu un site vitrine pour présenter le jeu, le projet et notre équipe.  
+  [🔗 Accéder au site web](https://unity.skyhosting.fr/)  
+  Technologies : HTML, CSS, JavaScript, three.js
+
+- **🍕 WebPizza** – Projet de boutique en ligne de pizzas avec **Django** et **Bootstrap**.  
+  [🔗 Voir le repo](https://github.com/ElenaFerreira/Webpizza)
+
+- **💬 WaveChat** – Application de messagerie pour créer des groupes et communiquer entre machines.  
+  [🔗 Voir le repo](https://github.com/ElenaFerreira/WaveChatWebsite)  
+  Technologies : HTML, CSS, JavaScript, Ajax, API REST avec Node.js
 
 ## 🏢 Expériences professionnelles
 

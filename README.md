@@ -41,15 +41,13 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 
 - **🎮 Projet Unity**  
   Avec une équipe de 21 élèves, nous avons développé un jeu vidéo 3D sur Unity. J'ai conçu un site vitrine pour présenter le jeu, le projet et notre équipe.  
-  [🔗 Accéder au site web](https://unity.skyhosting.fr/)  
-  Technologies : HTML, CSS, JavaScript, three.js
+  [🔗 Accéder au site web](https://unity.skyhosting.fr/)
 
 - **🍕 WebPizza** – Projet de boutique en ligne de pizzas avec **Django** et **Bootstrap**.  
   [🔗 Voir le repo](https://github.com/ElenaFerreira/Webpizza)
 
-- **💬 WaveChat** – Application de messagerie pour créer des groupes et communiquer entre machines.  
-  [🔗 Voir le repo](https://github.com/ElenaFerreira/WaveChatWebsite)  
-  Technologies : HTML, CSS, JavaScript, Ajax, API REST avec Node.js
+- **💬 WaveChat** – Application de messagerie pour créer des groupes et communiquer entre utilisateurs.  
+  [🔗 Voir le repo](https://github.com/ElenaFerreira/WaveChatWebsite)
 
 ## 🏢 Expériences professionnelles
 

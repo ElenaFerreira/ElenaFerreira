@@ -21,8 +21,7 @@ Passionnée par le développement web, je suis en constante recherche de nouvell
 
 ### Front-End :
 
-<img height="20" alt="html" src="images/html.png">
-<img height="20" alt="javascript" src="images/js.png">
+<img height="20" alt="html" src="images/html.png"> <img height="20" alt="javascript" src="images/js.png">
 <img height="20" alt="typescript" src="images/typescript.png">
 <img height="20" alt="css" src="images/css.png">
 <img height="20" alt="Tailwind" src="images/Tailwind.png">
